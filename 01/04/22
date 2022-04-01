@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int nmrMes, dias;
+    cout<<"Ingrese e numero del mes";
+    cin>>nmrMes;
+    switch(nmrMes){
+        case 1: 
+    }
+
+    return 0;
+}
